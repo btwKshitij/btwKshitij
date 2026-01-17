@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🔭 I’m currently working on **Cleclo Vendor Dashboard**<br>
+🔭 I’m currently working on **Cleclo Vendor Web**<br>
 👯 I’m looking to collaborate on **Open Source Projects**<br>
 🤝 I’m looking for help with **Advanced Next.js Patterns**<br>
 🌱 I’m currently learning **System Design & AI Agents**<br>
 💬 Ask me about **React, Next.js, Tailwind CSS**<br>
-⚡ Fun fact: **I love building cool dashboards!**
+⚡ Fun fact: **I love building cool websites!**
 
 ## 🌐 Socials:
 
