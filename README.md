@@ -21,18 +21,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=btwKshitij&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/btwitskaif69/btwitskaif69/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/btwitskaif69/btwitskaif69/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/btwitskaif69/btwitskaif69/output/github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🐍 GitHub Contributions
-
-<div align="center">
-  <img src="https://github.com/btwKshitij/cleclo-vendor-dash/blob/output/github-snake.svg" alt="snake-animation" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/btwKshitij/cleclo-vendor-dash/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/btwKshitij/cleclo-vendor-dash/blob/output/github-snake.svg">
-    <img alt="github contributions grid snake animation" src="https://github.com/btwKshitij/cleclo-vendor-dash/blob/output/github-snake.svg">
-  </picture>
-</div>
