@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kshitij Sharma</h1>
 <h3 align="center">Interested in Web Development </h3>
 
+## 🌐 Socials:
+
 <p align="center">
   <a href="https://instagram.com/kshitijsharma45" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
